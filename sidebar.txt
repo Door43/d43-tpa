@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tpa:home|Door43 (tpa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tpa|d43-tpa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tpa/archive/master.zip|d43-tpa.zip]]
+
+**Recent Changes**
+{{changes>ns = tpa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tpa|Ethnologue data]]
+
